@@ -113,19 +113,6 @@ curl -L https://raw.githubusercontent.com/bqlpfy/flux-panel/refs/heads/main/pane
 
 请确保在合法、合规、安全的前提下使用本项目。
 
----
-## ⭐ 喝杯咖啡！
-
-| 网络       | 地址                                                                 |
-|------------|----------------------------------------------------------------------|
-| BNB(BEP20) | `0x755492c03728851bbf855daa28a1e089f9aca4d1`                          |
-| TRC20      | `TYh2L3xxXpuJhAcBWnt3yiiADiCSJLgUm7`                                  |
-| Aptos      | `0xf2f9fb14749457748506a8281628d556e8540d1eb586d202cd8b02b99d369ef8`  |
-
-
-
----
-
 **⭐ 如果这个项目对您有帮助，请给个 Star 支持一下！**
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bqlpfy/flux-panel&type=Date)](https://www.star-history.com/#bqlpfy/flux-panel&Date)
